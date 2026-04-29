@@ -1,4 +1,3 @@
-# tumor-diagnosis-autostackcnn
 # Brain Tumor Diagnosis using Auto Stack CNN
 
 ## Results
