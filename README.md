@@ -1,5 +1,5 @@
 # tumor-diagnosis-autostackcnn
-# 🧠 Tumor Diagnosis using Auto Stack CNN
+# Brain Tumor Diagnosis using Auto Stack CNN
 
 ## Results
 | Model | Accuracy |
@@ -8,7 +8,7 @@
 | MobileNet | 96.11% |
 | ResNet50 | 75.04% |
 | VGG16 | 74.23% |
-| **Auto Stack CNN** | **98.45%** ⭐ |
+| **Auto Stack CNN** | **98.45%**  |
 
 ## Dataset
 - Br35H Brain Tumor Detection Dataset
