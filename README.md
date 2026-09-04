@@ -1,4 +1,4 @@
-# Brain Tumor Diagnosis using Auto Stack CNN
+# Brain Tumor Diagnosis 
 
 ## Results
 | Model | Accuracy |
